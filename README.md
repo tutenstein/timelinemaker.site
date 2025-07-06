@@ -1,5 +1,7 @@
 # Timeline Maker 📅
 
+Visit us at: [timelinemaker.site](https://timelinemaker.site)
+
 A powerful, feature-rich timeline creation tool built with React that allows you to create, manage, and share personal or professional timelines with file attachments, export capabilities, and timeline merging. Perfect for creating memory timelines, event timelines, and project timelines.
 
 ## ✨ Features
@@ -133,6 +135,3 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Timeline Maker** - Create, manage, and share your memories with ease! 📅✨
-
-Visit us at: [timelinemaker.site](https://timelinemaker.site)
